@@ -7,8 +7,7 @@
         }
     </style>
 </head>
-<center>
-    <body>
+  <body>
     <h1>Tugas dan Wewenang</h1>
     <table>
     <tr>
@@ -28,6 +27,5 @@
         <td colspan="3"><center> Negara Kesatuan Republik Indonesia </center></td>
     </tr>
     </table>
-    </body>
-</center>
+  </body>
 </html>
